@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "229911372_ŞühedaYavuz_GörselProgramlama", "229911372_ŞühedaYavuz_GörselProgramlama\229911372_ŞühedaYavuz_GörselProgramlama.csproj", "{AB93FA53-7373-41E7-BAB8-53665F73CF04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB93FA53-7373-41E7-BAB8-53665F73CF04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB93FA53-7373-41E7-BAB8-53665F73CF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB93FA53-7373-41E7-BAB8-53665F73CF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB93FA53-7373-41E7-BAB8-53665F73CF04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8491BB23-DBC1-4024-8EEC-C88A483F2363}
+	EndGlobalSection
+EndGlobal
